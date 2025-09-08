@@ -1,6 +1,6 @@
 ﻿// HW1a Sales Total
 
-// Your Name:
+// Your Name: Andy Nguyen
 // Did you seek help ? If yes, specify the helper or web link here: 
 
 using System;
@@ -15,6 +15,10 @@ namespace HW1a_Sales
     {
         static void Main(string[] args)
         {
+            String FootBallTicket;
+
+            Console.WriteLine("What is the product name of the item you are purchasing?");
+            FootBallTicket = Console.ReadLine();
         }
     }
 }
